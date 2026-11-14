@@ -45,6 +45,7 @@ A recipe site with a full back office in plain PHP and MySQL on a hand-rolled MV
 
 | Project | What it is | Built with |
 |---|---|---|
+| [applypilot-dashboard](https://github.com/Nada-Hanad/applypilot-dashboard) | Web control panel for an open-source job-application agent: setup checks, pipeline control, live activity and an applications board | Next.js, TypeScript |
 | [cuppa](https://github.com/Nada-Hanad/cuppa) | Role-based back office for a network of connected vending machines (team of four) | Next.js, Tailwind, Chart.js |
 | [CSE-Challenges-solutions](https://github.com/Nada-Hanad/CSE-Challenges-solutions) | Reference solutions to my CSS challenge, each beside its target image | HTML, CSS |
 | [fast_and_hack](https://github.com/Nada-Hanad/fast_and_hack) | Hafidhni, a Quran memorisation app; first place at Fast&Hack (team of three) | Flutter |
