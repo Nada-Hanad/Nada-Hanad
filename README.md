@@ -33,7 +33,7 @@ The personal-finance app I built for my own accounts: a deferred credit card, sh
 <br><sub>Next.js 16 · React 19 · Supabase · Tailwind CSS</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Nada-Hanad/we-cook"><img src="https://raw.githubusercontent.com/Nada-Hanad/we-cook/main/docs/screenshots/recipe.png" alt="WeCook recipe page"></a>
+<a href="https://github.com/Nada-Hanad/we-cook"><img src="https://raw.githubusercontent.com/Nada-Hanad/we-cook/master/docs/screenshots/recipe.png" alt="WeCook recipe page"></a>
 <h4><a href="https://github.com/Nada-Hanad/we-cook">we-cook</a></h4>
 A recipe site with a full back office in plain PHP and MySQL on a hand-rolled MVC framework: a recipe finder by ingredients, nutrition pages, member submissions and moderation. Runs with one <code>docker compose up</code>.
 <br><sub>PHP · MySQL · MVC · Docker</sub>
